@@ -1,5 +1,5 @@
 # unconfUROS2020
-The annual [conference on the use of R in official statistics](http://urosconf.org) will take place on the premises of Statistics Austria May 6-8 2020. We are excited to announce an unconference "use of R in official statistics"" on the two days before the uRos2020 conference, so on 4th and 5th of May.
+The annual [conference on the use of R in official statistics](http://urosconf.org) will take place on the premises of Statistics Austria 2-4 December 2020. We are excited to announce an unconference "use of R in official statistics"" on the two days before the uRos2020 conference, so on 30 November and 1 December.
 
 ## Motivation
 The idea behind the event (similar to http://unconf17.ropensci.org/ for R in general) to bring together useRs from the area of official statistics to work for two days on concrete projects where enhancements would benefit many institutes, organisation,... .
